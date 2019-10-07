@@ -30,5 +30,3 @@ def titleize(string)
 
 end 
 
-
-puts titleize("the bridge over the river kwai")

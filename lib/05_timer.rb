@@ -3,4 +3,4 @@ def time_string(seconds)
     Time.at(seconds).utc.strftime("%H:%M:%S")
 end
 
-puts time_string(4000)
+
